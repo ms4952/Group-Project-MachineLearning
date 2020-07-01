@@ -30,7 +30,7 @@ U as the set of k nearest users to u who rated i. The value
 of rui is a weighted average. This is a traditional k-nearest
 neighbors approach. 
 
-C. Latent Factor Approach
+Latent Factor Approach
 First, we lay out our m users and n items in a n  m
 ”interaction” matrix where each value rui denotes the rating
 user u has given item i. This rating can be explicit such as a 5-
